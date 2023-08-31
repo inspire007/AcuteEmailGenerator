@@ -1,0 +1,8 @@
+C:\Users\SUMAN\Documents\VisualStudioTest\AcuteEmailGenerator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\SUMAN\Documents\VisualStudioTest\AcuteEmailGenerator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\SUMAN\Documents\VisualStudioTest\AcuteEmailGenerator\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SUMAN\Documents\VisualStudioTest\AcuteEmailGenerator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\SUMAN\Documents\VisualStudioTest\AcuteEmailGenerator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\SUMAN\Documents\VisualStudioTest\AcuteEmailGenerator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\SUMAN\Documents\VisualStudioTest\AcuteEmailGenerator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\SUMAN\Documents\VisualStudioTest\AcuteEmailGenerator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
